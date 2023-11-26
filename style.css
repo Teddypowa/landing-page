@@ -1,0 +1,33 @@
+.header {
+    background: #1f2937;
+    
+}
+.information{
+
+}
+.quote {
+    background: #e5e7eb;
+}
+.contact {
+
+}
+.footer {
+
+}
+.maintext {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: #f9faf8;
+
+}
+.link2text {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.logotext {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 24px;
+    color: #f9faf8;
+}
