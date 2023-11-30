@@ -53,15 +53,16 @@ h1 {
 .content-right {
     display: flex;
     justify-content: center;
+    margin-right: 10%;
     align-items: center;
     flex-direction: column;
-    width: 50%;
+    gap: 50%;
 }
 
 .content-left {
     display: flex;
     justify-content: center;
-    margin-left: 150px;
+    margin-left: 20%;
     flex-direction: column;
     width: 50%;
 }
@@ -95,8 +96,9 @@ h2 {
 .row-of-blue-divs {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     max-width: 100%;
+    gap: 5%;
     margin: 70px;
 }
 
@@ -139,7 +141,7 @@ h3 {
 .p-third {
     font-size: 18px;
     text-align: end;
-    margin-right: 150px;
+    margin-right: 20%;
 }
 
 .last-div {
